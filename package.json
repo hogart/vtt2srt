@@ -1,0 +1,28 @@
+{
+  "name": "vtt2srt",
+  "version": "0.1.0",
+  "description": "WebVTT to SRT converter",
+  "main": "vtt2src.js",
+  "homepage": "https://github.com/hogart/vtt2srt",
+  "license": "MIT",
+
+  "keywords": [
+    "webvtt",
+    "converter"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hogart/vtt2srt.git"
+  },
+
+  "contributors": [
+    "Konstantin Kitmanov <doctor.hogart@gmail.com>"
+  ],
+
+  "author": "Konstantin Kitmanov <doctor.hogart@gmail.com>",
+
+  "bugs": {
+     "url": "https://github.com/hogart/vtt2srt/issues"
+  }
+}
